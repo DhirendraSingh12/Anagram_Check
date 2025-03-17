@@ -20,7 +20,7 @@
 
 1. **Clone this repository:**
     ```bash
-    git clone https://github.com/your-username/anagram-checker.git
+    git clone https://github.com/DhirendraSingh12/Anagram_Check.git
     cd Anagram-Check
     
 2. **Compile the Java program:**
